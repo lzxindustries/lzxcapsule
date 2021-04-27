@@ -10,3 +10,5 @@ BOM details are available in the Diptrace Schematic files.  Contributors are wel
 Do anything you want with the contents of this repository. 
 
 Our main concern is that PCB routing best practices are followed carefully in any derivative works.  Study our implementation layout as well as the notes in the datasheets for TPS7A47 LDO regulators. 
+
+RevA implemented by Lars Larsen & Jonah Lange
